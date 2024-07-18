@@ -1,0 +1,64 @@
+[
+  {
+    "title": "AI MUSE",
+    "imageSrc": "projects/ai_muse.png",
+    "description": " AI-powered content generation platform with authentication,free trails,subscriptions plans and secure payment.",
+    "skills": ["React", "Express", "Node", "Javascript", "MongoDB", "CSS"]
+  },
+  {
+    "title": "RESTAURENT MENU PLANNING",
+    "imageSrc": "projects/project.png",
+    "description": "This model recommends top-selling menu items based on the specified area and locality.",
+    "skills": ["Data Science", "Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "COIN MINDER",
+    "imageSrc": "projects/coin_minder.png",
+    "description": "This project offers secure login,all CRUD operations for managing expenses, and displays expense vs. income data.",
+    "skills": ["React", "Express", "Node", "Javascript", "MongoDB", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " ALZHEIMER’S DISEASE PREDICTION",
+    "imageSrc": "projects/brain.jpg",
+    "description": "This model predicts Alzheimer’s disease stage from MRI scans based on severity.",
+    "skills": ["Python", "Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " SPEED SCRIBBLER ",
+    "imageSrc": "projects/typing.png",
+    "description": "This is a fun game it calculates your typing speed and warns you for incorrect typing.",
+    "skills": ["HTML", "CSS", "Java Script"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " SPEECH TO TEXT CONVERSION ",
+    "imageSrc": "projects/TTS.jpeg",
+    "description": "This is a Speech-to-Text converter, allows users to input speech via a microphone.",
+    "skills": ["Python", "GUI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " POCKET ATLAS ",
+    "imageSrc": "projects/pocket.png",
+    "description": "This is a Easy currency converter. Uses real-time rates via API for accurate conversions",
+    "skills": ["HTML", "CSS", "Express", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " PORTFOLIO WEBSITE ",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This portfolio website, features a responsive design that showcases projects and skills with dynamic functionality.",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
